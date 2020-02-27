@@ -1,4 +1,4 @@
-# pontocloud - o Ponto Eletronico na Cloud
+# pontocloud - o Ponto Eletronico para Cloud
 
 API para os colaboradores baterem ponto
 
